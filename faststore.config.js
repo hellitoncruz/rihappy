@@ -5,7 +5,7 @@ module.exports = {
     titleTemplate: "%s | FastStore",
     author: "Store Framework",
   },
-  theme: "custom-theme",
+  theme: "soft-blue",
   platform: "vtex",
   api: {
     storeId: "storeframework",
