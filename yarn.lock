@@ -969,10 +969,10 @@
     p-limit "^3.1.0"
     sanitize-html "^2.11.0"
 
-"@faststore/cli@2.2.45":
-  version "2.2.45"
-  resolved "https://registry.yarnpkg.com/@faststore/cli/-/cli-2.2.45.tgz#adffd678db45157b3859b3e47d26fa9f716d0a1c"
-  integrity sha512-RdntU4aruKVQrxO2wg6L7Ci/lF9muoSIN46fI23nD9HBLSgSBCLkiXKKa9P5zKfE2GprG39ZMXR9rhVWxWUQ8Q==
+"@faststore/cli@3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@faststore/cli/-/cli-3.0.1.tgz#540aca2b1c010f1008dcf25078f36493c75d373d"
+  integrity sha512-72EJuEh81Csybinw17yuJ8vETjM8IWissqN9+9Gem0c2otuF2un5bFIQErBWzsuK8ukI1x186ANJaT9kDeaIHw==
   dependencies:
     "@oclif/core" "^1.16.4"
     "@oclif/plugin-help" "^5"
